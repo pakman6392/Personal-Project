@@ -17,7 +17,7 @@ or
 
 ### To build:
 ```sh
-$ cd SnakeGame
+$ cd Demo-Project Working
 $ mvn install
 ```
 #### To run
